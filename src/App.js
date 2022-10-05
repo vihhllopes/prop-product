@@ -8,7 +8,7 @@ function App() {
     <div className='product-container'>
       <Header/>
       
-      <div >
+      <div className='detalhes'>
       <hr/>
       <br></br>
       <h4>Detalhes do produto</h4>
@@ -18,7 +18,7 @@ function App() {
             <p><strong>Dimensões do Produto:</strong>Largura: 72,2cm Altura: 42,9cm Profundidade: 7,7cm</p>
             <p><strong>Cor:</strong>PRETO</p>
             <p><strong>Voltagem:</strong>Bivolt</p>
-            <p><strong>tempo de Garantia (Meses)</strong>01 ano (3 meses de garantia legal e mais 9 meses de garantia especial concedida pelo fabricante).</p>
+            <p><strong>Tempo de Garantia (01 ano)</strong> (3 meses de garantia legal e mais 9 meses de garantia especial concedida pelo fabricante).</p>
             <p><strong>Dimensões do Produto:</strong>Largura: 72,2cm Altura: 42,9cm Profundidade: 7,7cm</p>
             
             <p><strong>Funções:</strong></p>

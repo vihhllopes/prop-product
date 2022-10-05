@@ -48,8 +48,13 @@ a{
 
 
 }
-.container{
+.container .detalhes{
   margin-top: 10px;
+  margin-right: 40px;
+
+}
+.detalhes{
+  margin-left: 60px;
 }
 .infor{
   text-decoration: underline;
@@ -110,6 +115,7 @@ font-size: 16px;
   margin-top: 50px;
   display: flex;
   border: 1px solid #ccc;
+  margin-left: 30px;
  
 }
 .card {
@@ -133,5 +139,6 @@ font-size: 16px;
   background-color: #fff;
   border-radius: 3px;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.3);
+  
   
 }
